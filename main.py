@@ -1,0 +1,4 @@
+import szovegkezeles
+szovegkezeles.szepnapvan
+szovegkezeles.szovegkezeles
+szovegkezeles.a_betuk_szama
